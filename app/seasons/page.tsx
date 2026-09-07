@@ -1,3 +1,3 @@
 import {seasons} from '@/data/seasons';
-export const metadata={title:'Season Archives'};
+export const metadata={title:'Season Archives',alternates:{canonical:'/seasons'}};
 export default function Seasons(){return <main id="main" className="wrap page-content"><p className="eyebrow">WHITING FOOTBALL</p><h1>Season archives</h1><p className="page-lead">The record of each team, preserved in its own chapter.</p><div className="season-list">{Object.values(seasons).filter(s=>s.status==='documented').map(s=><a href={`/seasons/${s.year}`} key={s.year}><strong>{s.year}</strong><span>Whiting Oilers<small>{s.record} overall · {s.headCoach}</small></span><span aria-hidden="true">→</span></a>)}</div></main>}

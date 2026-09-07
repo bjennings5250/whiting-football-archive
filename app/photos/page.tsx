@@ -1,3 +1,3 @@
 import {seasons} from '@/data/seasons';
-export const metadata={title:'Photo Archive'};
+export const metadata={title:'Photo Archive',alternates:{canonical:'/photos'}};
 export default function Photos(){return <main id="main" className="wrap page-content"><p className="eyebrow">THE PHOTO ARCHIVE</p><h1>Oilers, in photographs.</h1><p className="page-lead">On the field, along the sideline, and together as a team.</p>{Object.values(seasons).filter(s=>s.photos.length>0).map(s=><a key={s.year} className="gallery-cover" href={`/photos/${s.year}`}><img src={s.photos.find(p=>p.src.includes('617'))?.src||s.photos[0].src} alt={`${s.year} Whiting Oilers photo collection`} width="2000" height="1333"/><h2>{s.year} Season <span aria-hidden="true">→</span></h2><p>Browse the photographs</p></a>)}</main>}

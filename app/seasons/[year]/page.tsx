@@ -6,7 +6,7 @@ import {PhotoGallery} from '@/components/archive/lightbox';
 import {FullStatistics} from '@/components/archive/statistics';
 import {VideoEmbed} from '@/components/archive/video';
 export function generateStaticParams(){return Object.keys(seasons).map(year=>({year}))}
-export async function generateMetadata({params}:{params:Promise<{year:string}>}){return {title:`${(await params).year} Season`}}
+export async function generateMetadata({params}:{params:Promise<{year:string}>}){const {year}=await params;return {title:`${year} Season`,alternates:{canonical:`/seasons/${year}`}}}
 export default async function SeasonPage({params}:{params:Promise<{year:string}>}){
  const {year}=await params;const s=seasons[year];if(!s)notFound();const sectionalVideo=s.videos?.find(v=>v.id==='k_do18mQEzk');
  const nav=[['overview','Overview',true],['results','Results',s.schedule.length>0],['coaches','Coaches',!!s.headCoach],['roster','Roster',s.roster.length>0],['statistics','Statistics',!!s.statistics?.length],['honors','Honors',s.honors.length>0],['videos','Videos',!!s.videos?.length],['photographs','Photos',s.photos.length>0]] as const;
