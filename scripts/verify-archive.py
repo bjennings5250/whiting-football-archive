@@ -29,6 +29,7 @@ block2016=season_text.split("'2016':",1)[1].split("'1996':",1)[0]
 games2016=re.findall(r'for:(\d+),against:(\d+)',block2016)
 assert len(games2016)==14 and sum(int(a)>int(b) for a,b in games2016)==12
 assert "whiting-2016-616.jpg" in block2016
+assert "assistantCoaches:['Brett Jennings','Jim Verta','Chris Davenport','JR Ford','Trevor Reece','Jason Jendreas','Fernando Sahagun','Greg Zorich','Mike Furto']" in block2016
 assert sum(int(a) for a,b in games2016)==441 and sum(int(b) for a,b in games2016)==174
 
 photos=read('photos-2016.json')
