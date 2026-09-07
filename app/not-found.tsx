@@ -1,0 +1,1 @@
+export default function NotFound(){return <main id="main" className="wrap page-content"><p className="eyebrow">WHITING FOOTBALL ARCHIVE</p><h1>Page not found.</h1><p className="page-lead">This page is not part of the archive.</p><a className="text-link" href="/seasons">Browse the season archives →</a></main>}

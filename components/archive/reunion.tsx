@@ -1,0 +1,2 @@
+import {reunion} from '@/data/reunion';
+export function Reunion(){if(!reunion.enabled)return null;return <section className="reunion wrap"><div className="date-block"><span>SEPTEMBER</span><strong>11</strong><span>2026 · FRIDAY</span></div><div><p className="eyebrow">BACK TO GALLIVAN FIELD</p><h2>1996 &amp; 2016 Oilers<br/>Football Reunion</h2><p>{reunion.date} · {reunion.time}<br/>{reunion.venue}</p></div><div className="reunion-links"><a href="/seasons/1996">1996 Team <span>→</span></a><a href="/seasons/2016">2016 Team <span>→</span></a></div></section>}
