@@ -1,24 +1,24 @@
 [
   {
-    "src": "/photos/2016/whiting-2016-18.jpg",
-    "thumbnail": "/photos/2016/whiting-2016-18-thumb.jpg",
-    "alt": "Players in white jerseys gather in an on-field huddle.",
+    "src": "/photos/2016/whiting-2016-9.jpg",
+    "thumbnail": "/photos/2016/whiting-2016-9-thumb.jpg",
+    "alt": "Whiting players stand together in white jerseys before a game.",
+    "width": 2000,
+    "height": 1330,
+    "curated": false
+  },
+  {
+    "src": "/photos/2016/whiting-2016-33.jpg",
+    "thumbnail": "/photos/2016/whiting-2016-33-thumb.jpg",
+    "alt": "Whiting players watch the field from the sideline.",
     "width": 2000,
     "height": 1333,
     "curated": false
   },
   {
-    "src": "/photos/2016/whiting-2016-36.jpg",
-    "thumbnail": "/photos/2016/whiting-2016-36-thumb.jpg",
-    "alt": "A Whiting runner in white meets defenders in dark uniforms.",
-    "width": 2000,
-    "height": 1333,
-    "curated": false
-  },
-  {
-    "src": "/photos/2016/whiting-2016-54.jpg",
-    "thumbnail": "/photos/2016/whiting-2016-54-thumb.jpg",
-    "alt": "Whiting players in white line up during a night game.",
+    "src": "/photos/2016/whiting-2016-61.jpg",
+    "thumbnail": "/photos/2016/whiting-2016-61-thumb.jpg",
+    "alt": "A coach wearing a headset watches the field under the lights.",
     "width": 2000,
     "height": 1333,
     "curated": false
@@ -32,9 +32,9 @@
     "curated": true
   },
   {
-    "src": "/photos/2016/whiting-2016-90.jpg",
-    "thumbnail": "/photos/2016/whiting-2016-90-thumb.jpg",
-    "alt": "Players walk onto the field with stadium seating behind them.",
+    "src": "/photos/2016/whiting-2016-73.jpg",
+    "thumbnail": "/photos/2016/whiting-2016-73-thumb.jpg",
+    "alt": "Players listen closely during an outdoor team talk.",
     "width": 2000,
     "height": 1330,
     "curated": false
@@ -45,103 +45,79 @@
     "alt": "A coach in green watches from the sideline.",
     "width": 2000,
     "height": 1333,
+    "curated": false
+  },
+  {
+    "src": "/photos/2016/whiting-2016-157.jpg",
+    "thumbnail": "/photos/2016/whiting-2016-157-thumb.jpg",
+    "alt": "Whiting players in white converge on a runner in blue.",
+    "width": 2000,
+    "height": 1333,
+    "curated": false
+  },
+  {
+    "src": "/photos/2016/whiting-2016-185.jpg",
+    "thumbnail": "/photos/2016/whiting-2016-185-thumb.jpg",
+    "alt": "A Whiting ball carrier drives through contact with teammates nearby.",
+    "width": 2000,
+    "height": 1333,
     "curated": true
   },
   {
-    "src": "/photos/2016/whiting-2016-126.jpg",
-    "thumbnail": "/photos/2016/whiting-2016-126-thumb.jpg",
-    "alt": "Players contest a pass near the end zone.",
-    "width": 2000,
-    "height": 1333,
-    "curated": false
-  },
-  {
-    "src": "/photos/2016/whiting-2016-145.jpg",
-    "thumbnail": "/photos/2016/whiting-2016-145-thumb.jpg",
-    "alt": "A wide view of play under the stadium lights.",
-    "width": 2000,
-    "height": 1333,
-    "curated": false
-  },
-  {
-    "src": "/photos/2016/whiting-2016-163.jpg",
-    "thumbnail": "/photos/2016/whiting-2016-163-thumb.jpg",
-    "alt": "A Whiting runner in white turns upfield against blue-clad defenders.",
-    "width": 2000,
-    "height": 1333,
-    "curated": false
-  },
-  {
-    "src": "/photos/2016/whiting-2016-181.jpg",
-    "thumbnail": "/photos/2016/whiting-2016-181-thumb.jpg",
-    "alt": "Whiting players in white face a defense in blue.",
-    "width": 2000,
-    "height": 1333,
-    "curated": false
-  },
-  {
-    "src": "/photos/2016/whiting-2016-199.jpg",
-    "thumbnail": "/photos/2016/whiting-2016-199-thumb.jpg",
-    "alt": "Whiting players enter the field beneath the goalposts.",
+    "src": "/photos/2016/whiting-2016-193.jpg",
+    "thumbnail": "/photos/2016/whiting-2016-193-thumb.jpg",
+    "alt": "Players gather closely in the locker room before a team talk.",
     "width": 2000,
     "height": 1330,
     "curated": false
   },
   {
-    "src": "/photos/2016/whiting-2016-217.jpg",
-    "thumbnail": "/photos/2016/whiting-2016-217-thumb.jpg",
-    "alt": "Whiting in green and white during a night-game play.",
+    "src": "/photos/2016/whiting-2016-201.jpg",
+    "thumbnail": "/photos/2016/whiting-2016-201-thumb.jpg",
+    "alt": "Whiting players run onto the field beneath the goalposts.",
+    "width": 2000,
+    "height": 1330,
+    "curated": false
+  },
+  {
+    "src": "/photos/2016/whiting-2016-233.jpg",
+    "thumbnail": "/photos/2016/whiting-2016-233-thumb.jpg",
+    "alt": "A Whiting ball carrier breaks toward the sideline.",
     "width": 2000,
     "height": 1333,
     "curated": false
   },
   {
-    "src": "/photos/2016/whiting-2016-235.jpg",
-    "thumbnail": "/photos/2016/whiting-2016-235-thumb.jpg",
-    "alt": "A wide field view of the teams in action.",
-    "width": 2000,
-    "height": 1333,
-    "curated": false
-  },
-  {
-    "src": "/photos/2016/whiting-2016-253.jpg",
-    "thumbnail": "/photos/2016/whiting-2016-253-thumb.jpg",
-    "alt": "Players collide at the line of scrimmage.",
-    "width": 2000,
-    "height": 1333,
-    "curated": false
-  },
-  {
-    "src": "/photos/2016/whiting-2016-272.jpg",
-    "thumbnail": "/photos/2016/whiting-2016-272-thumb.jpg",
-    "alt": "Whiting players cross the field beneath the scoreboard.",
-    "width": 2000,
-    "height": 1333,
-    "curated": false
-  },
-  {
-    "src": "/photos/2016/whiting-2016-308.jpg",
-    "thumbnail": "/photos/2016/whiting-2016-308-thumb.jpg",
-    "alt": "Players and supporters pose together outside a brick building.",
+    "src": "/photos/2016/whiting-2016-281.jpg",
+    "thumbnail": "/photos/2016/whiting-2016-281-thumb.jpg",
+    "alt": "Whiting players share a long outdoor table at a community gathering.",
     "width": 2000,
     "height": 1330,
     "curated": true
   },
   {
-    "src": "/photos/2016/whiting-2016-326.jpg",
-    "thumbnail": "/photos/2016/whiting-2016-326-thumb.jpg",
-    "alt": "Whiting players gather near an official.",
+    "src": "/photos/2016/whiting-2016-309.jpg",
+    "thumbnail": "/photos/2016/whiting-2016-309-thumb.jpg",
+    "alt": "The green bell sits beside the field before a game.",
+    "width": 2000,
+    "height": 1333,
+    "curated": true
+  },
+  {
+    "src": "/photos/2016/whiting-2016-329.jpg",
+    "thumbnail": "/photos/2016/whiting-2016-329-thumb.jpg",
+    "alt": "A Whiting quarterback sets to throw under the lights.",
     "width": 2000,
     "height": 1333,
     "curated": false
   },
   {
-    "src": "/photos/2016/whiting-2016-344.jpg",
-    "thumbnail": "/photos/2016/whiting-2016-344-thumb.jpg",
-    "alt": "A wide view of Whiting facing red-and-black opponents.",
+    "src": "/photos/2016/whiting-2016-337.jpg",
+    "thumbnail": "/photos/2016/whiting-2016-337-thumb.jpg",
+    "alt": "A coach addresses attentive players in front of red lockers.",
     "width": 2000,
-    "height": 1333,
-    "curated": false
+    "height": 1330,
+    "curated": true
   },
   {
     "src": "/photos/2016/whiting-2016-362.jpg",
@@ -149,36 +125,20 @@
     "alt": "Whiting linemen crouch across from red-and-black opponents.",
     "width": 2000,
     "height": 1333,
+    "curated": false
+  },
+  {
+    "src": "/photos/2016/whiting-2016-393.jpg",
+    "thumbnail": "/photos/2016/whiting-2016-393-thumb.jpg",
+    "alt": "A close portrait of a Whiting player listening after the game.",
+    "width": 2000,
+    "height": 1333,
     "curated": true
   },
   {
-    "src": "/photos/2016/whiting-2016-380.jpg",
-    "thumbnail": "/photos/2016/whiting-2016-380-thumb.jpg",
-    "alt": "Whiting players battle through the line of scrimmage.",
-    "width": 2000,
-    "height": 1333,
-    "curated": false
-  },
-  {
-    "src": "/photos/2016/whiting-2016-399.jpg",
-    "thumbnail": "/photos/2016/whiting-2016-399-thumb.jpg",
-    "alt": "A coach addresses players indoors.",
-    "width": 2000,
-    "height": 1333,
-    "curated": false
-  },
-  {
-    "src": "/photos/2016/whiting-2016-417.jpg",
-    "thumbnail": "/photos/2016/whiting-2016-417-thumb.jpg",
-    "alt": "Whiting in green during a night-game play.",
-    "width": 2000,
-    "height": 1333,
-    "curated": false
-  },
-  {
-    "src": "/photos/2016/whiting-2016-435.jpg",
-    "thumbnail": "/photos/2016/whiting-2016-435-thumb.jpg",
-    "alt": "Whiting players look downfield from near the sideline.",
+    "src": "/photos/2016/whiting-2016-429.jpg",
+    "thumbnail": "/photos/2016/whiting-2016-429-thumb.jpg",
+    "alt": "A Whiting quarterback prepares to pass against maroon-and-white opponents.",
     "width": 2000,
     "height": 1333,
     "curated": false
@@ -189,12 +149,12 @@
     "alt": "A Whiting player drives forward against defenders in white and maroon.",
     "width": 2000,
     "height": 1333,
-    "curated": true
+    "curated": false
   },
   {
-    "src": "/photos/2016/whiting-2016-471.jpg",
-    "thumbnail": "/photos/2016/whiting-2016-471-thumb.jpg",
-    "alt": "Whiting players stand on the field between plays.",
+    "src": "/photos/2016/whiting-2016-481.jpg",
+    "thumbnail": "/photos/2016/whiting-2016-481-thumb.jpg",
+    "alt": "A Whiting runner leans forward with the ball near the end zone.",
     "width": 2000,
     "height": 1333,
     "curated": false
@@ -205,28 +165,20 @@
     "alt": "Two Whiting teammates celebrate together on the field.",
     "width": 2000,
     "height": 1333,
+    "curated": false
+  },
+  {
+    "src": "/photos/2016/whiting-2016-513.jpg",
+    "thumbnail": "/photos/2016/whiting-2016-513-thumb.jpg",
+    "alt": "A Whiting ball carrier strides along the sideline under the lights.",
+    "width": 2000,
+    "height": 1333,
     "curated": true
   },
   {
-    "src": "/photos/2016/whiting-2016-507.jpg",
-    "thumbnail": "/photos/2016/whiting-2016-507-thumb.jpg",
-    "alt": "Whiting players raise their arms alongside an official.",
-    "width": 2000,
-    "height": 1333,
-    "curated": false
-  },
-  {
-    "src": "/photos/2016/whiting-2016-526.jpg",
-    "thumbnail": "/photos/2016/whiting-2016-526-thumb.jpg",
-    "alt": "Whiting teammates gather in an on-field huddle.",
-    "width": 2000,
-    "height": 1333,
-    "curated": false
-  },
-  {
-    "src": "/photos/2016/whiting-2016-544.jpg",
-    "thumbnail": "/photos/2016/whiting-2016-544-thumb.jpg",
-    "alt": "Coaches watch the action from the sideline.",
+    "src": "/photos/2016/whiting-2016-529.jpg",
+    "thumbnail": "/photos/2016/whiting-2016-529-thumb.jpg",
+    "alt": "Whiting blockers engage maroon-and-white defenders.",
     "width": 2000,
     "height": 1333,
     "curated": false
@@ -240,81 +192,49 @@
     "curated": true
   },
   {
-    "src": "/photos/2016/whiting-2016-598.jpg",
-    "thumbnail": "/photos/2016/whiting-2016-598-thumb.jpg",
-    "alt": "A close view inside a crowd of celebrating Whiting players.",
-    "width": 2000,
-    "height": 1333,
-    "curated": false
-  },
-  {
-    "src": "/photos/2016/whiting-2016-616.jpg",
-    "thumbnail": "/photos/2016/whiting-2016-616-thumb.jpg",
+    "src": "/photos/2016/whiting-2016-617.jpg",
+    "thumbnail": "/photos/2016/whiting-2016-617-thumb.jpg",
     "alt": "Players, coaches and supporters pose with a trophy beneath the goalposts.",
     "width": 2000,
     "height": 1333,
     "curated": true
   },
   {
-    "src": "/photos/2016/whiting-2016-634.jpg",
-    "thumbnail": "/photos/2016/whiting-2016-634-thumb.jpg",
-    "alt": "A coach addresses a crowd of players and supporters on the field.",
+    "src": "/photos/2016/whiting-2016-633.jpg",
+    "thumbnail": "/photos/2016/whiting-2016-633-thumb.jpg",
+    "alt": "A coach speaks to players and supporters gathered on the field.",
+    "width": 2000,
+    "height": 1333,
+    "curated": false
+  },
+  {
+    "src": "/photos/2016/whiting-2016-665.jpg",
+    "thumbnail": "/photos/2016/whiting-2016-665-thumb.jpg",
+    "alt": "Players raise a football above a tightly gathered group of helmets.",
+    "width": 2000,
+    "height": 1333,
+    "curated": false
+  },
+  {
+    "src": "/photos/2016/whiting-2016-697.jpg",
+    "thumbnail": "/photos/2016/whiting-2016-697-thumb.jpg",
+    "alt": "A coach talks to players beneath a team motto in the locker room.",
     "width": 2000,
     "height": 1333,
     "curated": true
   },
   {
-    "src": "/photos/2016/whiting-2016-653.jpg",
-    "thumbnail": "/photos/2016/whiting-2016-653-thumb.jpg",
-    "alt": "Whiting players crowd together beneath the stadium lights.",
+    "src": "/photos/2016/whiting-2016-745.jpg",
+    "thumbnail": "/photos/2016/whiting-2016-745-thumb.jpg",
+    "alt": "A seated Whiting player listens near the sideline.",
     "width": 2000,
     "height": 1333,
     "curated": false
   },
   {
-    "src": "/photos/2016/whiting-2016-671.jpg",
-    "thumbnail": "/photos/2016/whiting-2016-671-thumb.jpg",
-    "alt": "Two people wearing Whiting green meet on the field.",
-    "width": 2000,
-    "height": 1333,
-    "curated": false
-  },
-  {
-    "src": "/photos/2016/whiting-2016-707.jpg",
-    "thumbnail": "/photos/2016/whiting-2016-707-thumb.jpg",
-    "alt": "Whiting in green faces maroon-and-white opponents.",
-    "width": 2000,
-    "height": 1333,
-    "curated": false
-  },
-  {
-    "src": "/photos/2016/whiting-2016-725.jpg",
-    "thumbnail": "/photos/2016/whiting-2016-725-thumb.jpg",
-    "alt": "Whiting players engage opponents near the line.",
-    "width": 2000,
-    "height": 1333,
-    "curated": false
-  },
-  {
-    "src": "/photos/2016/whiting-2016-743.jpg",
-    "thumbnail": "/photos/2016/whiting-2016-743-thumb.jpg",
-    "alt": "Whiting players regroup after a tackle.",
-    "width": 2000,
-    "height": 1333,
-    "curated": false
-  },
-  {
-    "src": "/photos/2016/whiting-2016-761.jpg",
-    "thumbnail": "/photos/2016/whiting-2016-761-thumb.jpg",
-    "alt": "Whiting players in pursuit near the goalposts.",
-    "width": 2000,
-    "height": 1333,
-    "curated": false
-  },
-  {
-    "src": "/photos/2016/whiting-2016-779.jpg",
-    "thumbnail": "/photos/2016/whiting-2016-779-thumb.jpg",
-    "alt": "Whiting players run downfield in pink socks.",
+    "src": "/photos/2016/whiting-2016-773.jpg",
+    "thumbnail": "/photos/2016/whiting-2016-773-thumb.jpg",
+    "alt": "A Whiting player leaps near the end zone.",
     "width": 2000,
     "height": 1333,
     "curated": false
@@ -325,68 +245,68 @@
     "alt": "A close portrait of a Whiting player after the game.",
     "width": 2000,
     "height": 1333,
-    "curated": true
-  },
-  {
-    "src": "/photos/2016/whiting-2016-816.jpg",
-    "thumbnail": "/photos/2016/whiting-2016-816-thumb.jpg",
-    "alt": "Coaches and players gather for an on-field conversation.",
-    "width": 2000,
-    "height": 1330,
     "curated": false
   },
   {
-    "src": "/photos/2016/whiting-2016-834.jpg",
-    "thumbnail": "/photos/2016/whiting-2016-834-thumb.jpg",
-    "alt": "Players walk along the field under the lights.",
+    "src": "/photos/2016/whiting-2016-801.jpg",
+    "thumbnail": "/photos/2016/whiting-2016-801-thumb.jpg",
+    "alt": "A coach in a white cap watches from the field.",
     "width": 2000,
-    "height": 1330,
+    "height": 1333,
     "curated": false
   },
   {
-    "src": "/photos/2016/whiting-2016-852.jpg",
-    "thumbnail": "/photos/2016/whiting-2016-852-thumb.jpg",
-    "alt": "Whiting players in white jerseys gather near the sideline.",
+    "src": "/photos/2016/whiting-2016-805.jpg",
+    "thumbnail": "/photos/2016/whiting-2016-805-thumb.jpg",
+    "alt": "A Whiting coach looks across the field.",
     "width": 2000,
-    "height": 1330,
+    "height": 1333,
     "curated": false
   },
   {
-    "src": "/photos/2016/whiting-2016-906.jpg",
-    "thumbnail": "/photos/2016/whiting-2016-906-thumb.jpg",
-    "alt": "A coach and player stand beside a trophy.",
-    "width": 1064,
-    "height": 1600,
-    "curated": true
-  },
-  {
-    "src": "/photos/2016/whiting-2016-925.jpg",
-    "thumbnail": "/photos/2016/whiting-2016-925-thumb.jpg",
-    "alt": "Players hold a trophy high over their helmets.",
+    "src": "/photos/2016/whiting-2016-861.jpg",
+    "thumbnail": "/photos/2016/whiting-2016-861-thumb.jpg",
+    "alt": "Players in white lift a trophy above their helmets.",
     "width": 2000,
     "height": 1330,
     "curated": true
   },
   {
-    "src": "/photos/2016/whiting-2016-943.jpg",
-    "thumbnail": "/photos/2016/whiting-2016-943-thumb.jpg",
-    "alt": "Raised hands and helmets surround a trophy celebration.",
+    "src": "/photos/2016/whiting-2016-893.jpg",
+    "thumbnail": "/photos/2016/whiting-2016-893-thumb.jpg",
+    "alt": "Whiting players in white pose closely together with a trophy.",
     "width": 2000,
     "height": 1330,
-    "curated": false
+    "curated": true
   },
   {
-    "src": "/photos/2016/whiting-2016-961.jpg",
-    "thumbnail": "/photos/2016/whiting-2016-961-thumb.jpg",
-    "alt": "Players pose together with a trophy on the field.",
+    "src": "/photos/2016/whiting-2016-905.jpg",
+    "thumbnail": "/photos/2016/whiting-2016-905-thumb.jpg",
+    "alt": "A player stands beside a coach holding a trophy.",
     "width": 1064,
     "height": 1600,
     "curated": false
   },
   {
-    "src": "/photos/2016/whiting-2016-979.jpg",
-    "thumbnail": "/photos/2016/whiting-2016-979-thumb.jpg",
-    "alt": "Players enter the field beneath the goalposts.",
+    "src": "/photos/2016/whiting-2016-945.jpg",
+    "thumbnail": "/photos/2016/whiting-2016-945-thumb.jpg",
+    "alt": "A group of Whiting players pose in a row with a trophy.",
+    "width": 2000,
+    "height": 1330,
+    "curated": false
+  },
+  {
+    "src": "/photos/2016/whiting-2016-981.jpg",
+    "thumbnail": "/photos/2016/whiting-2016-981-thumb.jpg",
+    "alt": "Whiting players carry a green team flag onto the field.",
+    "width": 2000,
+    "height": 1330,
+    "curated": false
+  },
+  {
+    "src": "/photos/2016/whiting-2016-989.jpg",
+    "thumbnail": "/photos/2016/whiting-2016-989-thumb.jpg",
+    "alt": "A coach addresses kneeling players beneath the scoreboard.",
     "width": 2000,
     "height": 1330,
     "curated": false
@@ -395,14 +315,6 @@
     "src": "/photos/2016/whiting-2016-997.jpg",
     "thumbnail": "/photos/2016/whiting-2016-997-thumb.jpg",
     "alt": "Whiting players stand together near the end zone.",
-    "width": 2000,
-    "height": 1333,
-    "curated": true
-  },
-  {
-    "src": "/photos/2016/whiting-2016-1033.jpg",
-    "thumbnail": "/photos/2016/whiting-2016-1033-thumb.jpg",
-    "alt": "Coaches stand in front of the Whiting sideline.",
     "width": 2000,
     "height": 1333,
     "curated": false
@@ -416,36 +328,20 @@
     "curated": true
   },
   {
-    "src": "/photos/2016/whiting-2016-1106.jpg",
-    "thumbnail": "/photos/2016/whiting-2016-1106-thumb.jpg",
-    "alt": "A wide view of Whiting assembled near the end zone.",
-    "width": 2000,
-    "height": 1330,
-    "curated": false
-  },
-  {
-    "src": "/photos/2016/whiting-2016-1124.jpg",
-    "thumbnail": "/photos/2016/whiting-2016-1124-thumb.jpg",
-    "alt": "A Whiting player poses with a supporter on the field.",
-    "width": 2000,
-    "height": 1330,
-    "curated": false
-  },
-  {
     "src": "/photos/2016/whiting-2016-1142.jpg",
     "thumbnail": "/photos/2016/whiting-2016-1142-thumb.jpg",
     "alt": "A Whiting player poses with two supporters.",
     "width": 2000,
     "height": 1330,
-    "curated": true
+    "curated": false
   },
   {
-    "src": "/photos/2016/whiting-2016-1160.jpg",
-    "thumbnail": "/photos/2016/whiting-2016-1160-thumb.jpg",
-    "alt": "A coach talks to seated players indoors.",
+    "src": "/photos/2016/whiting-2016-1169.jpg",
+    "thumbnail": "/photos/2016/whiting-2016-1169-thumb.jpg",
+    "alt": "Whiting players run onto the field carrying American and team flags.",
     "width": 2000,
     "height": 1330,
-    "curated": false
+    "curated": true
   },
   {
     "src": "/photos/2016/whiting-2016-1179.jpg",
@@ -453,7 +349,7 @@
     "alt": "Players huddle around coaches before a game.",
     "width": 2000,
     "height": 1330,
-    "curated": true
+    "curated": false
   },
   {
     "src": "/photos/2016/whiting-2016-1197.jpg",
@@ -464,11 +360,19 @@
     "curated": true
   },
   {
-    "src": "/photos/2016/whiting-2016-1215.jpg",
-    "thumbnail": "/photos/2016/whiting-2016-1215-thumb.jpg",
-    "alt": "A coach gestures from the sideline.",
-    "width": 1067,
-    "height": 1600,
+    "src": "/photos/2016/whiting-2016-1205.jpg",
+    "thumbnail": "/photos/2016/whiting-2016-1205-thumb.jpg",
+    "alt": "The school band and supporters fill a section of the stands.",
+    "width": 2000,
+    "height": 1333,
+    "curated": true
+  },
+  {
+    "src": "/photos/2016/whiting-2016-1257.jpg",
+    "thumbnail": "/photos/2016/whiting-2016-1257-thumb.jpg",
+    "alt": "Whiting players in green move through contact with purple-and-white defenders.",
+    "width": 2000,
+    "height": 1333,
     "curated": false
   },
   {
@@ -477,6 +381,62 @@
     "alt": "A coach speaks to players seated along the sideline.",
     "width": 2000,
     "height": 1333,
+    "curated": false
+  },
+  {
+    "src": "/photos/2016/whiting-2016-1312.jpg",
+    "thumbnail": "/photos/2016/whiting-2016-1312-thumb.jpg",
+    "alt": "Whiting players bring their hands together in a locker-room huddle.",
+    "width": 2000,
+    "height": 1330,
     "curated": true
+  },
+  {
+    "src": "/photos/2016/whiting-2016-1316.jpg",
+    "thumbnail": "/photos/2016/whiting-2016-1316-thumb.jpg",
+    "alt": "Whiting players prepare a green team flag beside a brick wall.",
+    "width": 2000,
+    "height": 1330,
+    "curated": false
+  },
+  {
+    "src": "/photos/2016/whiting-2016-1344.jpg",
+    "thumbnail": "/photos/2016/whiting-2016-1344-thumb.jpg",
+    "alt": "A coach addresses seated players on the field beneath the scoreboard.",
+    "width": 2000,
+    "height": 1330,
+    "curated": false
+  },
+  {
+    "src": "/photos/2016/whiting-2016-1352.jpg",
+    "thumbnail": "/photos/2016/whiting-2016-1352-thumb.jpg",
+    "alt": "Whiting linemen crouch across from orange-and-green opponents.",
+    "width": 2000,
+    "height": 1333,
+    "curated": false
+  },
+  {
+    "src": "/photos/2016/whiting-2016-1372.jpg",
+    "thumbnail": "/photos/2016/whiting-2016-1372-thumb.jpg",
+    "alt": "Cheerleaders stand along the track in front of the crowd.",
+    "width": 2000,
+    "height": 1333,
+    "curated": false
+  },
+  {
+    "src": "/photos/2016/whiting-2016-1388.jpg",
+    "thumbnail": "/photos/2016/whiting-2016-1388-thumb.jpg",
+    "alt": "A Whiting ball carrier cuts toward the camera with defenders behind him.",
+    "width": 2000,
+    "height": 1333,
+    "curated": true
+  },
+  {
+    "src": "/photos/2016/whiting-2016-1428.jpg",
+    "thumbnail": "/photos/2016/whiting-2016-1428-thumb.jpg",
+    "alt": "A Whiting runner turns upfield near an orange-and-green defender.",
+    "width": 2000,
+    "height": 1333,
+    "curated": false
   }
 ]

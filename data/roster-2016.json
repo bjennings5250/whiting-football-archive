@@ -1,0 +1,343 @@
+[
+  {
+    "number": 2,
+    "name": "Pedro Valerio",
+    "grade": "Jr.",
+    "position": "LB, RB",
+    "height": "5'10\"",
+    "weight": 182
+  },
+  {
+    "number": 3,
+    "name": "Cody Trzepacz",
+    "grade": "Fr.",
+    "position": "SS, RB",
+    "height": "5'7\"",
+    "weight": 121
+  },
+  {
+    "number": 4,
+    "name": "Thomas Knight",
+    "grade": "So.",
+    "position": "WR, DB",
+    "height": "6'4\"",
+    "weight": 193
+  },
+  {
+    "number": 6,
+    "name": "Estevan Becerra",
+    "grade": "Jr.",
+    "position": "CB, WR",
+    "height": "5'7\"",
+    "weight": 156
+  },
+  {
+    "number": 7,
+    "name": "Stuart Glascow",
+    "grade": "Sr.",
+    "position": "QB, DB",
+    "height": "6'3\"",
+    "weight": 210
+  },
+  {
+    "number": 10,
+    "name": "Nino Barbosa",
+    "grade": "So.",
+    "position": "RB, CB",
+    "height": "5'8\"",
+    "weight": 145
+  },
+  {
+    "number": 13,
+    "name": "Steven Connelly",
+    "grade": "Fr.",
+    "position": "QB, CB",
+    "height": "5'10\"",
+    "weight": 154
+  },
+  {
+    "number": 14,
+    "name": "Jon Furto",
+    "grade": "So.",
+    "position": "DB, QB",
+    "height": "5'8\"",
+    "weight": 158
+  },
+  {
+    "number": 15,
+    "name": "Chris Doll",
+    "grade": "Sr.",
+    "position": "WR, CB"
+  },
+  {
+    "number": 21,
+    "name": "Ernesto Del real",
+    "grade": "Fr.",
+    "position": "RB, SS",
+    "height": "5'7\"",
+    "weight": 200
+  },
+  {
+    "number": 22,
+    "name": "Aidan Plemons",
+    "grade": "Fr.",
+    "position": "QB, RB, MLB",
+    "height": "5'10\"",
+    "weight": 155
+  },
+  {
+    "number": 24,
+    "name": "Miguel Rivera",
+    "grade": "Sr.",
+    "position": "DB, RB",
+    "height": "5'8\"",
+    "weight": 172
+  },
+  {
+    "number": 29,
+    "name": "Freddy Flores",
+    "grade": "So.",
+    "position": "WR, SS",
+    "height": "5'7\"",
+    "weight": 148
+  },
+  {
+    "number": 30,
+    "name": "Chris Page",
+    "grade": "Sr.",
+    "position": "RB, LB",
+    "height": "6'0\"",
+    "weight": 205
+  },
+  {
+    "number": 31,
+    "name": "Matt Solis",
+    "grade": "Sr.",
+    "position": "RB, FS",
+    "height": "5'8\"",
+    "weight": 165
+  },
+  {
+    "number": 32,
+    "name": "Mikey Galaviz",
+    "grade": "So.",
+    "position": "DL, RB",
+    "height": "5'10\"",
+    "weight": 182
+  },
+  {
+    "number": 33,
+    "name": "Tom Davenport",
+    "grade": "So.",
+    "position": "DE, FB",
+    "height": "6'1\"",
+    "weight": 242
+  },
+  {
+    "number": 34,
+    "name": "John Bock",
+    "grade": "So.",
+    "position": "RB, ILB",
+    "height": "5'9\"",
+    "weight": 178
+  },
+  {
+    "number": 40,
+    "name": "Dylan White",
+    "grade": "Jr.",
+    "position": "RB, OLB",
+    "height": "6'0\"",
+    "weight": 176
+  },
+  {
+    "number": 42,
+    "name": "Christian Carroll",
+    "grade": "So.",
+    "position": "DB, SB",
+    "height": "5'4\"",
+    "weight": 116
+  },
+  {
+    "number": 45,
+    "name": "Caleb Macon",
+    "grade": "Sr.",
+    "position": "MLB, TE",
+    "height": "6'3\"",
+    "weight": 220
+  },
+  {
+    "number": 52,
+    "name": "Jake Lytle",
+    "grade": "Jr.",
+    "position": "C, DT",
+    "height": "5'7\"",
+    "weight": 223
+  },
+  {
+    "number": 53,
+    "name": "Diego Olmedo",
+    "grade": "So.",
+    "position": "DT, G",
+    "height": "5'8\"",
+    "weight": 212
+  },
+  {
+    "number": 54,
+    "name": "Joel Torres",
+    "grade": "So.",
+    "position": "LB, G",
+    "height": "5'11\"",
+    "weight": 174
+  },
+  {
+    "number": 54,
+    "name": "Justin Grino",
+    "grade": "So.",
+    "position": "WR, DB",
+    "height": "5'6\"",
+    "weight": 157
+  },
+  {
+    "number": 55,
+    "name": "Brent Reel",
+    "grade": "Sr.",
+    "position": "OT, DT",
+    "height": "5'9\"",
+    "weight": 260
+  },
+  {
+    "number": 55,
+    "name": "Ruben Silvas",
+    "grade": "Fr.",
+    "position": "DT, T",
+    "height": "5'9\"",
+    "weight": 250
+  },
+  {
+    "number": 60,
+    "name": "Isaac Sahagun",
+    "grade": "Sr.",
+    "position": "OL, DT",
+    "height": "5'9\"",
+    "weight": 248
+  },
+  {
+    "number": 61,
+    "name": "Emiliano Rodriguez",
+    "grade": "Fr.",
+    "position": "DE, T",
+    "height": "6'4\"",
+    "weight": 230
+  },
+  {
+    "number": 63,
+    "name": "Danny Canning",
+    "grade": "So.",
+    "position": "DL, OL",
+    "height": "5'7\"",
+    "weight": 222
+  },
+  {
+    "number": 66,
+    "name": "Sebastian Macias",
+    "grade": "Sr.",
+    "position": "OG, DE",
+    "height": "5'8\"",
+    "weight": 172
+  },
+  {
+    "number": 67,
+    "name": "Octavio Gutierrez",
+    "grade": "Jr.",
+    "position": "DE, OG",
+    "height": "5'10\"",
+    "weight": 210
+  },
+  {
+    "number": 68,
+    "name": "Nicholas Mendez",
+    "grade": "Fr.",
+    "position": "T, DT",
+    "height": "5'10\"",
+    "weight": 231
+  },
+  {
+    "number": 70,
+    "name": "Robert Garcia",
+    "grade": "So.",
+    "position": "G, DE",
+    "height": "5'11\"",
+    "weight": 213
+  },
+  {
+    "number": 73,
+    "name": "Jacob Pick",
+    "grade": "So.",
+    "position": "LB, OL",
+    "height": "5'10\"",
+    "weight": 187
+  },
+  {
+    "number": 75,
+    "name": "Nathaniel Terrazas",
+    "grade": "Fr.",
+    "position": "T, DT",
+    "height": "6'0\"",
+    "weight": 344
+  },
+  {
+    "number": 76,
+    "name": "Joey Trombetta",
+    "grade": "Jr.",
+    "position": "G, DE",
+    "height": "5'8\"",
+    "weight": 220
+  },
+  {
+    "number": 77,
+    "name": "Christian Gamino",
+    "grade": "Sr.",
+    "position": "OT, DT",
+    "height": "6'1\"",
+    "weight": 239
+  },
+  {
+    "number": 78,
+    "name": "Nick Krieger",
+    "grade": "So.",
+    "position": "DT",
+    "height": "5'11\"",
+    "weight": 295
+  },
+  {
+    "number": 79,
+    "name": "Kenneth Padilla",
+    "grade": "So.",
+    "position": "OL, DL",
+    "height": "5'6\"",
+    "weight": 196
+  },
+  {
+    "number": 82,
+    "name": "Colton Willoughby",
+    "grade": "So.",
+    "position": "WR, DB",
+    "height": "5'10\"",
+    "weight": 146
+  },
+  {
+    "number": 83,
+    "name": "Nate Zorich",
+    "grade": "So.",
+    "position": "DB, WR",
+    "height": "5'9\"",
+    "weight": 138
+  },
+  {
+    "number": 84,
+    "name": "Adam Zorich",
+    "grade": "Sr.",
+    "position": "DB, WR",
+    "height": "6'1\""
+  }
+]
