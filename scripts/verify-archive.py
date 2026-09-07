@@ -59,6 +59,7 @@ games1996=re.findall(r'for:(\d+),against:(\d+)',block1996)
 assert len(games1996)==12 and sum(int(a)>int(b) for a,b in games1996)==7
 assert sum(int(a) for a,b in games1996)==248 and sum(int(b) for a,b in games1996)==244
 assert "status:'documented'" in block1996 and "record:'7–5'" in block1996
+assert "ohW1S7YofAY" in block1996
 assert "assistantCoaches:['E. Hruskocy','B. Jennings','R. Shanley','W. Greer','Greg Zorich']" in block1996
 
 photos96=read('photos-1996.json')

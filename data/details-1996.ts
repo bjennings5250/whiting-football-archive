@@ -5,3 +5,5 @@ export const leaders1996=[
  {name:'Joe Holtrop',label:'Defense',highlights:[{value:'148',label:'total tackles'},{value:'2',label:'interceptions'},{value:'3',label:'fumble recoveries'}]},
  {name:'Joe Rivers',label:'Pass rush',highlights:[{value:'10.5',label:'quarterback sacks'},{value:'83',label:'total tackles'}]}
 ];
+
+export const videos1996=[{id:'ohW1S7YofAY',title:'Whiting Oilers 1996 Highlights'}];
