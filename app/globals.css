@@ -30,3 +30,8 @@ button{font:inherit;cursor:pointer}main,section,article,.schedules>*,.story>*,.i
 
 /* Transparent program mark with a fine keyline for the dark masthead. */
 .program-logo{background:transparent;filter:drop-shadow(.5px 0 0 #f6f6f2) drop-shadow(-.5px 0 0 #f6f6f2) drop-shadow(0 .5px 0 #f6f6f2) drop-shadow(0 -.5px 0 #f6f6f2)}
+
+/* The native Next.js build uses a small local modal shell for the photo viewer. */
+.archive-lightbox-layer{position:fixed;inset:0;z-index:50;display:grid;place-items:center;padding:16px;background:rgba(11,46,34,.88)}
+.archive-lightbox-layer .archive-lightbox{position:relative;display:grid}
+.lightbox-heading h2{font:22px Georgia}
