@@ -1,26 +1,35 @@
 # Whiting Oilers Football Archive
 
-The permanent historical archive for Whiting High School football in Whiting, Indiana. The site currently preserves the fully documented 1996 and 2016 teams, including season stories, schedules, rosters, statistics, honors, photographs, and video.
+The permanent historical archive for Whiting High School football in Whiting, Indiana. The responsive site preserves the fully documented 1996 and 2016 teams, including season stories, schedules, rosters, statistics, honors, photographs, and video.
 
 Production: [https://whitingfootball.com](https://whitingfootball.com)
 
+## Archive routes
+
+- `/` — archive homepage
+- `/seasons` — season index
+- `/seasons/1996` — 1996 season archive, including the owner-supplied highlight video
+- `/seasons/2016` — 2016 regional championship season archive
+- `/photos` and `/photos/:year` — season photo galleries
+- `/history` — program history
+
 ## Local development
 
-Use Node.js 22 or newer.
+Use Node.js 22.13 or newer.
 
 ```bash
 npm ci
 npm run dev
 ```
 
-Open `http://localhost:3000`. To verify the historical data and referenced media before a release, run:
+Open `http://localhost:3000`. To verify the historical data, referenced media, and production build before a release, run:
 
 ```bash
 python3 scripts/verify-archive.py
 npm run build
 ```
 
-## Deployment
+## Production workflow
 
 `main` is the production branch. Vercel builds and deploys every commit to `main`; pull requests and other branches receive preview deployments. No environment variables or external data services are required.
 
