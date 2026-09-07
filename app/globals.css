@@ -27,3 +27,6 @@ button{font:inherit;cursor:pointer}main,section,article,.schedules>*,.story>*,.i
 /* Keep the inner video at 16:9 and give tablet leader entries room to breathe. */
 .video-frame{aspect-ratio:auto}.video-frame iframe{aspect-ratio:16/9;height:auto}
 @media(min-width:701px) and (max-width:1000px){.leaders{grid-template-columns:repeat(2,minmax(0,1fr))}.leader,.leader:nth-child(-n+2){grid-column:span 1}.leader:last-child{grid-column:1/-1}.leader:last-child dl>div{max-width:150px}}
+
+/* Transparent program mark with a fine keyline for the dark masthead. */
+.program-logo{background:transparent;filter:drop-shadow(.5px 0 0 #f6f6f2) drop-shadow(-.5px 0 0 #f6f6f2) drop-shadow(0 .5px 0 #f6f6f2) drop-shadow(0 -.5px 0 #f6f6f2)}
