@@ -311,7 +311,7 @@
   },
   {
     "number": 79,
-    "name": "Kenneth Padilla",
+    "name": "Kenny Padilla",
     "grade": "So.",
     "position": "OL, DL",
     "height": "5'6\"",
@@ -338,6 +338,7 @@
     "name": "Adam Zorich",
     "grade": "Sr.",
     "position": "DB, WR",
-    "height": "6'1\""
+    "height": "6'1\"",
+    "weight": 175
   }
 ]
